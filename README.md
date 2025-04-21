@@ -23,6 +23,6 @@ The dataset used for this project is publicly available and can be downloaded fr
 
  Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fraud-detection.git
+   git clone https://github.com/your-username/Fraud-Detection.git
    cd fraud-detection
 
